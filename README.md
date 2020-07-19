@@ -1,4 +1,5 @@
-- [Docker GOLANG tarefa](https://hub.docker.com/repository/docker/abnerserafim/golang-code)
+- [Docker GOLANG tarefa 2](https://hub.docker.com/r/abnerserafim/golang-code)
+- [Docker GOLANG tarefa 3](https://hub.docker.com/r/abnerserafim/golang-code-min)
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
